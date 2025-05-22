@@ -1,1 +1,3 @@
-print("Jeremy's hello world")
+someone = "someone"
+
+print(f"Jeremy's hello to {someone}")
